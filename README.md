@@ -14,7 +14,7 @@
 
 
 ### if you are intersted in this work, please cite
-
+'''
 @article{shang2023denoising,
   title={Denoising Fault-Aware Wavelet Network: A Signal Processing Informed Neural Network for Fault Diagnosis},
   author={Shang, Zuogang and Zhao, Zhibin and Yan, Ruqiang},
@@ -25,6 +25,7 @@
   year={2023},
   publisher={Springer}
 }
+'''
 
 
 
